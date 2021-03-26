@@ -12,10 +12,12 @@ const Banner = (props) => (
     
 
             <header className="major">
-                <h1>Hello, welcome to Blake Immigration Law.</h1>
+                <h1>Hello, welcome to Blake Immigration Law.</h1><br>
+  <h1>Hola, bienvenidos a Blake Immigration Law.</h1>
             </header>
             <div className="content">
-                <p>WE SPECIALIZE IN REMOVAL DEFENSE, ASYLUM, AND FAMILY-BASED IMMIGRATION.</p>
+                <p>WE SPECIALIZE IN REMOVAL DEFENSE, ASYLUM, AND FAMILY-BASED IMMIGRATION.</p><br>
+  <p>NOS ESPECIALIZAMOS EN DEFENSA DE DEPORTACIÓN, ASILO E INMIGRACIÓN FAMILIAR.</p>
                 <ul className="actions">
                     <li><a href="tel:7035947857" className="button next scrolly">Call Us (703) 594-7857</a></li>
                 </ul>
