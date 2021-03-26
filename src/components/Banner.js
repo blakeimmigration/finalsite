@@ -16,6 +16,8 @@ const Banner = (props) => (
             </header>
             <div className="content">
                 <p>WE SPECIALIZE IN REMOVAL DEFENSE, ASYLUM, AND FAMILY-BASED IMMIGRATION.</p>
+  <p>WE SPECIALIZE IN REMOVAL DEFENSE, ASYLUM, AND FAMILY-BASED IMMIGRATION.</p>
+ <p>NOS ESPECIALIZAMOS EN DEFENSA CONTRA DEPORTACIÓN, ASILO E INMIGRACIÓN FAMILIAR.</p>
                 <ul className="actions">
                     <li><a href="tel:7035947857" className="button next scrolly">Call Us (703) 594-7857</a></li>
                 </ul>
