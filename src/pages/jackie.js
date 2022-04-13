@@ -16,7 +16,7 @@ const Jackie= (props) => (
                 <div className="inner">
                     <header className="major">
                         <h1>Jackie Citalan</h1>
-    <h3>Senior Paralegal</h3>
+    <h3>Receptionist/Administrative Assistant</h3>
                     </header>
                     <img src={pic40} alt="" />
                     <p>Bio coming soon...</p>
