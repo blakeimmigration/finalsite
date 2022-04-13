@@ -16,7 +16,7 @@ const Diana= (props) => (
                 <div className="inner">
                     <header className="major">
                         <h1>Diana Maravilla</h1>
-    <h3>Receptionist/Administrative Assistant</h3>
+    <h3>Paralegal</h3>
                     </header>
                     <img src={pic39} alt="" />
                     <p> Diana has been a receptionist and administrative assistant at Blake Immigration Law since 2021. Diana grew up in Arlington, Virginia and earned her Immigration Law Specialist Paralegal Certificate at the Washington Online Learning Institute. She previously worked as a receptionist and assistant at medical and immigration law offices in northern Virginia. In her free time Diana likes to read, garden, and bake. She also likes to spend time with her family and friends, and her dog, Kiko. </p>
