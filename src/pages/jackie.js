@@ -2,7 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 
-import pic11 from '../assets/images/pic40.jpg'
+import pic40 from '../assets/images/pic40.jpg'
 
 const Jackie= (props) => (
     <Layout>
