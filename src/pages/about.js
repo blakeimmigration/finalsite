@@ -14,7 +14,6 @@ import pic39 from '../assets/images/pic39.jpg'
 import pic40 from '../assets/images/pic40.jpg'
 
 
-
 const About = (props) => (
     <Layout>
         <Helmet>
