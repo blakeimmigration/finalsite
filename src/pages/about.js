@@ -144,12 +144,12 @@ const About = (props) => (
                 </section>
 <section>
                     <Link to="/jennifer" className="image">
-                        <img src={pic20} alt="" />
+                        <img src={pic40} alt="" />
                     </Link>
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Jennifer Araujo</h3>
+                                <h3>Jackie Citalan</h3>
 <h4>Senior Paralegal</h4>
                             </header>
                             <p>Jennifer has been a paralegal at Blake Immigration Law since 2017. She grew up in northern Virginia and earned her B.A. in political science from the Pennsylvania State University. <a href="https://blakeimmigration.netlify.app/jennifer/">Read more about Jennifer...</a></p>
