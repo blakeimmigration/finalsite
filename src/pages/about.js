@@ -152,7 +152,7 @@ const About = (props) => (
                                 <h3>Jackie Citalan</h3>
 <h4>Receptionist/Administrative Assistant</h4>
                             </header>
-                            <p>Jackie has been a receptionist and administrative assistant at Blake Immigration Law since 2022. <a href="https://blakeimmigration.netlify.app/jackie/">Read more about Jackie...</a></p>
+                            <p>Jackie has been a receptionist and administrative assistant at Blake Immigration Law since 2022. She grew up in Northern Virginia and graduated from Washington-Lee High School. Before joining Blake Immigraiton Law Jackie was a bilingual patient coordinator at a dental office in Virginia. Jackie enjoys working in immigration law because she is able to help people from all different backgrounds and understands the importance of giving clients the best attention and service. In her free time Jackie likes to listen to music, watch tv and movies, and spend time with her family and friends.      <a href="https://blakeimmigration.netlify.app/jackie/">Read more about Jackie...</a></p>
     <i><p>Jackie ha sido asistente en Blake Immigration Law desde 2022. <a href="https://blakeimmigration.netlify.app/jackie/">Leer más sobre Jackie ... </a></p></i>
                             <ul className="actions">
                                 <li><a href="mailto:jackie@blakeimmigration.com" className="button fit">jackie@blakeimmigration.com</a></li>
