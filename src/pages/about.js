@@ -143,7 +143,7 @@ const About = (props) => (
                     </div>
                 </section>
 <section>
-                    <Link to="/jennifer" className="image">
+                    <Link to="/jackie" className="image">
                         <img src={pic40} alt="" />
                     </Link>
                     <div className="content">
@@ -152,8 +152,8 @@ const About = (props) => (
                                 <h3>Jackie Citalan</h3>
 <h4>Receptionist/Administrative Assistant</h4>
                             </header>
-                            <p>Jennifer has been a paralegal at Blake Immigration Law since 2017. She grew up in northern Virginia and earned her B.A. in political science from the Pennsylvania State University. <a href="https://blakeimmigration.netlify.app/jennifer/">Read more about Jennifer...</a></p>
-    <i><p>Jennifer ha sido paralegal en Blake Immigration Law desde 2017. Creció en el norte de Virginia y obtuvo su B.A. en ciencias políticas de la Universidad Estatal de Pensilvania. <a href="https://blakeimmigration.netlify.app/jennifer/">Leer más sobre Jennifer ... </a></p></i>
+                            <p>Jackie has been a receptionist and administrative assistant at Blake Immigration Law since 2022. <a href="https://blakeimmigration.netlify.app/jackie/">Read more about Jackie...</a></p>
+    <i><p>Jennifer ha sido asistente en Blake Immigration Law desde 2022. <a href="https://blakeimmigration.netlify.app/jackie/">Leer más sobre Jackie ... </a></p></i>
                             <ul className="actions">
                                 <li><a href="mailto:jennifer@blakeimmigration.com" className="button fit">jennifer@blakeimmigration.com</a></li>
                             </ul>
