@@ -143,7 +143,7 @@ const About = (props) => (
                     </div>
                 </section>
 <section>
-                    <Link to="/jackie" className="image">
+                    <Link to="/jennifer" className="image">
                         <img src={pic40} alt="" />
                     </Link>
                     <div className="content">
@@ -153,7 +153,7 @@ const About = (props) => (
 <h4>Receptionist/Administrative Assistant</h4>
                             </header>
                             <p>More information coming soon...</a></p>
-    <i><p>... </a></p></i>
+    <i><p>...</a></p></i>
                             <ul className="actions">
                                 <li><a href="mailto:jackie@blakeimmigration.com" className="button fit">jackie@blakeimmigration.com</a></li>
                             </ul>
