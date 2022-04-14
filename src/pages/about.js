@@ -144,6 +144,26 @@ const About = (props) => (
                 </section>
 
            </section>
+<section>
+                    <Link to="/diana" className="image">
+                        <img src={pic40} alt="" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header className="major">
+                                <h3>Jackie Citalan</h3>
+                                <h4>Receptionist/Administrative Assistant</h4>
+                            </header>
+                            <p> Diana has worked at Blake Immigration Law since 2021, first as an administrative assistant and now as a paralegal. Diana grew up in Arlington, Virginia and earned her Immigration Law Specialist Paralegal Certificate at the Washington Online Learning Institute. <a href="https://blakeimmigration.netlify.app/diana/">Read more about Diana...</a> </p>
+    <i><p>Diana ha trabajado en Blake Immigration Law desde 2021 como asistente administrativa y ahora como paralegal. Diana creció en Arlington, Virginia y obtuvo su Certificado de asistente legal de especialista en derecho de inmigración en el Washington Online Learning Institute. <a href="https://blakeimmigration.netlify.app/diana/">Leer más sobre Diana... </a></p></i>
+                            <ul className="actions">
+                                <li><a href="mailto:diana@blakeimmigration.com" className="button fit">diana@blakeimmigration.com</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </section>
+
+           </section>
         </div>
 
     </Layout>
