@@ -153,9 +153,9 @@ const About = (props) => (
 <h4>Receptionist/Administrative Assistant</h4>
                             </header>
                             <p>Jackie has been a receptionist and administrative assistant at Blake Immigration Law since 2022. <a href="https://blakeimmigration.netlify.app/jackie/">Read more about Jackie...</a></p>
-    <i><p>Jennifer ha sido asistente en Blake Immigration Law desde 2022. <a href="https://blakeimmigration.netlify.app/jackie/">Leer más sobre Jackie ... </a></p></i>
+    <i><p>Jackie ha sido asistente en Blake Immigration Law desde 2022. <a href="https://blakeimmigration.netlify.app/jackie/">Leer más sobre Jackie ... </a></p></i>
                             <ul className="actions">
-                                <li><a href="mailto:jennifer@blakeimmigration.com" className="button fit">jennifer@blakeimmigration.com</a></li>
+                                <li><a href="mailto:jackie@blakeimmigration.com" className="button fit">jackie@blakeimmigration.com</a></li>
                             </ul>
                         </div>
                     </div>
