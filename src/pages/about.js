@@ -11,7 +11,7 @@ import pic11 from '../assets/images/pic11.jpg'
 import pic21 from '../assets/images/pic21.jpg'
 import pic25 from '../assets/images/pic25.jpg'
 import pic39 from '../assets/images/pic39.jpg'
-import pic40 from '../assets/images/pic40.jpg'
+
 
 
 const About = (props) => (
@@ -143,7 +143,7 @@ const About = (props) => (
                     </div>
                 </section>
 
-           </section>
+           
 
            </section>
         </div>
