@@ -145,6 +145,25 @@ const About = (props) => (
                 </section>
 
 <section>
+                    <Link to="/sarai" className="image">
+                        <img src={pic41} alt="" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header className="major">
+                                <h3>Sarai Valles-Alberto</h3>
+                                <h4>Paralegal</h4>
+                            </header>
+                            <p>Bio coming soon...</p>
+   
+                            <ul className="actions">
+                                <li><a href="mailto:sarai@blakeimmigration.com" className="button fit">sarai@blakeimmigration.com</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </section>
+
+<section>
                     <Link to="/jackie" className="image">
                         <img src={pic40} alt="" />
                     </Link>
