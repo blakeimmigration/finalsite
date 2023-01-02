@@ -91,7 +91,7 @@ const About = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Jennifer Araujo</h3>
+                                <h3>Jennifer Araujo, Esq.</h3>
 <h4>Associate Attorney</h4>
                             </header>
                             <p>Jennifer has worked at Blake Immigration Law since 2017, first as a paralegal, and as an attorney since 2022. She grew up in northern Virginia and earned her B.A. in political science from the Pennsylvania State University and her J.D. from the University of the District of Columbia (UDC) David A. Clarke School of Law. <a href="https://blakeimmigration.netlify.app/jennifer/">Read more about Jennifer...</a></p>
