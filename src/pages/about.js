@@ -12,6 +12,7 @@ import pic21 from '../assets/images/pic21.jpg'
 import pic25 from '../assets/images/pic25.jpg'
 import pic39 from '../assets/images/pic39.jpg'
 import pic40 from '../assets/images/pic40.jpg'
+import pic41 from '../assets/images/pic41.jpg'
 
 
 const About = (props) => (
@@ -143,19 +144,19 @@ const About = (props) => (
                     </div>
                 </section>
 <section>
-                    <Link to="/diana" className="image">
-                        <img src={pic39} alt="" />
+                    <Link to="/sarai" className="image">
+                        <img src={pic41} alt="" />
                     </Link>
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Diana Maravilla</h3>
+                                <h3>Sarai Valles-Alberto</h3>
                                 <h4>Paralegal</h4>
                             </header>
-                            <p> Diana has worked at Blake Immigration Law since 2021, first as an administrative assistant and now as a paralegal. Diana grew up in Arlington, Virginia and earned her Immigration Law Specialist Paralegal Certificate at the Washington Online Learning Institute. <a href="https://blakeimmigration.netlify.app/diana/">Read more about Diana...</a> </p>
-    <i><p>Diana ha trabajado en Blake Immigration Law desde 2021 como asistente administrativa y ahora como paralegal. Diana creció en Arlington, Virginia y obtuvo su Certificado de asistente legal de especialista en derecho de inmigración en el Washington Online Learning Institute. <a href="https://blakeimmigration.netlify.app/diana/">Leer más sobre Diana... </a></p></i>
+                            <p> Bio coming soon. </p>
+    
                             <ul className="actions">
-                                <li><a href="mailto:diana@blakeimmigration.com" className="button fit">diana@blakeimmigration.com</a></li>
+                                <li><a href="mailto:sarai@blakeimmigration.com" className="button fit">sarai@blakeimmigration.com</a></li>
                             </ul>
                         </div>
                     </div>
