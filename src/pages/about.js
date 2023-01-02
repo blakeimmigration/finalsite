@@ -40,7 +40,7 @@ const About = (props) => (
                                 <h3>Jillian Blake, Esq.</h3>
                                 <h4>Principal Attorney/Owner</h4>
                             </header>
-                            <p>Jillian has been an attorney at Blake Immigration Law since 2015. She grew up in San Francisco, California and earned her B.A. and M.A. in international relations from Johns Hopkins University. She received her J.D. from the University of Michigan Law School. <a href="https://blakeimmigration.netlify.app/jillian/">Read more about Jillian...</a></p>
+                            <p>Jillian has been an attorney at Blake Immigration Law since founding the firm in 2015. She grew up in San Francisco, California and earned her B.A. and M.A. in international relations from Johns Hopkins University. She received her J.D. from the University of Michigan Law School. <a href="https://blakeimmigration.netlify.app/jillian/">Read more about Jillian...</a></p>
     <i><p>Jillian ha sido abogada en Blake Immigration Law desde 2015. Creció en San Francisco, California y obtuvo su B.A. y M.A. en relaciones internacionales de la Universidad Johns Hopkins. Obtuvo su J.D. de la Facultad de Derecho de la Universidad de Michigan. <a href="https://blakeimmigration.netlify.app/jillian/">Leer más sobre Jillian ...</a></p></i>
                             <ul className="actions">
                                 <li><a href="mailto:jillian@blakeimmigration.com" className="button fit">jillian@blakeimmigration.com</a></li>
@@ -92,10 +92,10 @@ const About = (props) => (
                         <div className="inner">
                             <header className="major">
                                 <h3>Jennifer Araujo</h3>
-<h4>Senior Paralegal</h4>
+<h4>Associate Attorney</h4>
                             </header>
-                            <p>Jennifer has been a paralegal at Blake Immigration Law since 2017. She grew up in northern Virginia and earned her B.A. in political science from the Pennsylvania State University. <a href="https://blakeimmigration.netlify.app/jennifer/">Read more about Jennifer...</a></p>
-    <i><p>Jennifer ha sido paralegal en Blake Immigration Law desde 2017. Creció en el norte de Virginia y obtuvo su B.A. en ciencias políticas de la Universidad Estatal de Pensilvania. <a href="https://blakeimmigration.netlify.app/jennifer/">Leer más sobre Jennifer ... </a></p></i>
+                            <p>Jennifer has worked at Blake Immigration Law since 2017, first as a paralegal, and as an attorney since 2022. She grew up in northern Virginia and earned her B.A. in political science from the Pennsylvania State University and her J.D. at the University of the District of Columbia (UDC) David A. Clarke School of Law. <a href="https://blakeimmigration.netlify.app/jennifer/">Read more about Jennifer...</a></p>
+    <i><p>Jennifer ha trabajado en Blake Immigration Law desde 2017, primeramente como paralegal y como abogada desde 2022. Creció en el norte de Virginia y obtuvo su B.A. en ciencias políticas de la Universidad Estatal de Pensilvania y su J.D. de la facultad de derecho David A. Clarke de la universidad del Distrito de Columbia (UDC). <a href="https://blakeimmigration.netlify.app/jennifer/">Leer más sobre Jennifer ... </a></p></i>
                             <ul className="actions">
                                 <li><a href="mailto:jennifer@blakeimmigration.com" className="button fit">jennifer@blakeimmigration.com</a></li>
                             </ul>
