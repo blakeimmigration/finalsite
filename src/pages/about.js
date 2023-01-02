@@ -153,7 +153,7 @@ const About = (props) => (
                                 <h3>Sarai Valles-Alberto</h3>
                                 <h4>Paralegal</h4>
                             </header>
-                            <p> Bio coming soon. </p>
+                            <p>Bio coming soon.</p>
     
                             <ul className="actions">
                                 <li><a href="mailto:sarai@blakeimmigration.com" className="button fit">sarai@blakeimmigration.com</a></li>
