@@ -19,7 +19,7 @@ const Sarai= (props) => (
     <h3>Paralegal</h3>
                     </header>
                     <img src={pic41} alt="" />
-                    <p>Bio coming soon. </p>
+                    <p>Bio coming soon.</p>
                 </div>
             </section>
         </div>
