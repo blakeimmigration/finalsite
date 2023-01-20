@@ -154,8 +154,8 @@ const About = (props) => (
                                 <h3>Sarai Valles-Alberto</h3>
                                 <h4>Paralegal</h4>
                             </header>
-                            <p>Sarai has been a paralegal at Blake Immigration Law since 2022. She grew up in Woodbridge, Virginia. Sarai earned her A.A. in liberal studies with a focus on international studies from Northern Virginia Community College and B.A. in Global Affairs from George Mason University. <a href="https://blakeimmigration.netlify.app/sarai/">Read more about Sarai...</a></p>
-     <i><p>Sarai ha sido paralegal en Blake Immigration Law desde 2022. Creció en Woodbridge, Virginia. Sarai obtuvo su A.A. en estudios liberales con un enfoque en estudios internacionales de Northern Virginia Community College y B.A. en Asuntos Globales de la Universidad George Mason. <a href="https://blakeimmigration.netlify.app/sarai/">Leer más sobre Sarai... </a></p></i>
+                            <p>Sarai has been a paralegal at Blake Immigration Law since 2022. She grew up in Woodbridge, Virginia. Sarai earned her A.A. in liberal studies with a focus on international studies from Northern Virginia Community College and B.A. in global affairs from George Mason University. <a href="https://blakeimmigration.netlify.app/sarai/">Read more about Sarai...</a></p>
+     <i><p>Sarai ha sido paralegal en Blake Immigration Law desde 2022. Creció en Woodbridge, Virginia. Sarai obtuvo su A.A. en estudios liberales con un enfoque en estudios internacionales de Northern Virginia Community College y B.A. en asuntos globales de la Universidad George Mason. <a href="https://blakeimmigration.netlify.app/sarai/">Leer más sobre Sarai... </a></p></i>
                             <ul className="actions">
                                 <li><a href="mailto:sarai@blakeimmigration.com" className="button fit">sarai@blakeimmigration.com</a></li>
                             </ul>
