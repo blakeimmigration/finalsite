@@ -1,5 +1,5 @@
 import React from 'react'
-import pic16 from '../assets/images/pic16.jpg'
+import pic42 from '../assets/images/pic42.jpg'
 
 
 const Contact = (props) => (
@@ -7,7 +7,7 @@ const Contact = (props) => (
         <div className="inner">
             <section>
                 
-    <img src={pic16} width="200" height="200" alt="" />
+    <img src={pic42} width="200" height="200" alt="" />
 
             </section>
             <section className="split">
