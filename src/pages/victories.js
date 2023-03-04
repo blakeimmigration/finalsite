@@ -20,7 +20,23 @@ const Victories = (props) => (
                       
                     
     <h4><p>We have represented clients from all over the world including El Salvador, Honduras, Guatemala, Mexico, Costa Rica, Nicaragua, Venezuela, Colombia, Cuba, Jamaica, Haiti, Peru, Philippines, Pakistan, Azerbaijan, Afghanistan, Turkey, Ukraine, Turkmenistan, Iran, Ethiopia, Cameroon, Sierra Leone, Mongolia, Vietnam, South Korea, China and Ghana. Below is a sample of some of our victories: </p></h4>
-             <h3>2021</h3>
+        <h3>2022</h3>
+    <ul>
+     <li><b>Asylum granted</b> in Arlington Immigration Court for Afghan client and activisit who feared persecution based on on her feminist political opinion.
+    </li>
+    <li><b>Asylum granted</b> in Annandale Immigration Court for Honduran client who feared persecution based on on his political opinion.
+    </li>
+    <li><b>Cancellation of Removal</b> approved in Arlington Immigration Court for Honduran client whose removal would lead to exceptional and extremely unusual hardship for his U.S. citizen children and lawful permanent resident wife. 
+</li>
+   
+    <li><b>Asylum granted</b> in Hyattsville Immigration Court for Cameroonian client who feared persecution based on his anti-corruption political opinion.</li>
+    
+ <li><b>Adjustment of status granted</b> by USCIS to Bulgarian client based on her marriage to a U.S. citizen. 
+</li>
+    <li><b>Asylum granted</b> in Hyattsville Immigration Court for Guatemalan client who suffered domestic violence and received threats from her former partner.</li>
+    <li><b>Asylum granted</b> by Arlington Asylum Office for Salvadoran client who entered the United States as an unaccompanied minor.</li>
+    </ul>         
+    <h3>2021</h3>
     <ul>
     <li><b>Cancellation of Removal</b> approved in Arlington Immigration Court for Honduran client whose removal would lead to exceptional and extremely unusual hardship for her U.S. citizen children. 
 </li>
