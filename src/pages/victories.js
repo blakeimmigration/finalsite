@@ -24,7 +24,7 @@ const Victories = (props) => (
     <ul>
      <li><b>Asylum granted</b> in Arlington Immigration Court for Afghan client and activisit who feared persecution based on on her feminist political opinion.
     </li>
-    <li><b>Asylum granted</b> in Annandale Immigration Court for Honduran client who feared persecution based on on his political opinion.
+    <li><b>Asylum granted</b> in Annandale Immigration Court for Honduran client who feared persecution based on his political opinion.
     </li>
     <li><b>Cancellation of Removal</b> approved in Arlington Immigration Court for Honduran client whose removal would lead to exceptional and extremely unusual hardship for his U.S. citizen children and lawful permanent resident wife. 
 </li>
