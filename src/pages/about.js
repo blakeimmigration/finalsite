@@ -13,6 +13,9 @@ import pic25 from '../assets/images/pic25.jpg'
 import pic39 from '../assets/images/pic39.jpg'
 import pic40 from '../assets/images/pic40.jpg'
 import pic41 from '../assets/images/pic41.jpg'
+import arlena from '../assets/images/arlena.jpg'
+import wendy from '../assets/images/wendy.jpg'
+import kim from '../assets/images/kim.jpg'
 
 
 const About = (props) => (
