@@ -184,6 +184,24 @@ const About = (props) => (
                         </div>
                     </div>
                 </section>
+    <section>
+                    <Link to="/kim" className="image">
+                        <img src={kim} alt="" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header className="major">
+                                <h3>Kim Whatley</h3>
+<h4>Receptionist/Administrative Assistant</h4>
+                            </header>
+                            <p>Bio coming soon</a></p>
+
+                            <ul className="actions">
+                                <li><a href="mailto:kim@blakeimmigration.com" className="button fit">kim@blakeimmigration.com</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </section>
 
            </section>
         </div>
