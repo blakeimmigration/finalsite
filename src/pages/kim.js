@@ -29,4 +29,4 @@ const Kim = (props) => (
     </Layout>
 )
 
-export default Jackie
+export default Kim
