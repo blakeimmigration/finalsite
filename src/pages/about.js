@@ -165,6 +165,24 @@ const About = (props) => (
                         </div>
                     </div>
                 </section>
+    <section>
+                    <Link to="/wendy" className="image">
+                        <img src={pic44} alt="" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header className="major">
+                                <h3>Wendy Vasquez</h3>
+<h4>Paralegal</h4>
+                            </header>
+                            <p>Bio coming soon. <a href="https://blakeimmigration.netlify.app/wendy/">Read more about Wendy...</a></p>
+   
+                            <ul className="actions">
+                                <li><a href="mailto:wendy@blakeimmigration.com" className="button fit">wendy@blakeimmigration.com</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </section>
 
 <section>
                     <Link to="/jackie" className="image">
