@@ -18,7 +18,7 @@ const Arlena= (props) => (
                         <h1>Arlena Lara Quinteros</h1>
     <h3>Paralegal</h3>
                     </header>
-                    <img src={pic44} alt="" />
+                    <img src={pic45} alt="" />
                     <p> Bio coming soon. </p>
    
                 </div>
