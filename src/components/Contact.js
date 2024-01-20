@@ -36,10 +36,7 @@ const Contact = (props) => (
                             1517 King St.<br />
                         Alexandria, VA 22314<br />
                         </span>
-<span><b>Physical Address-Baltimore</b><br />
-                           10 E. North Ave.<br />
-                        Baltimore, MD 21218<br />
-                       </span>
+
                     </div>
                 </section>
             </section>
