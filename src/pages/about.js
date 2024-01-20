@@ -232,7 +232,7 @@ const About = (props) => (
                                 <h3>Kim Whatley</h3>
 <h4>Receptionist/Administrative Assistant</h4>
                             </header>
-                            <p>Bio coming soon. <a href="https://blakeimmigration.netlify.app/kim/">Read more about Kim...</a></p>
+                            <p>Kim has worked at Blake Immigration Law since 2023, first as an administrative assistant, and now as a paralegal. Kim grew up in Guatemala City, Guatemala and attended law school at Universidad San Carlos de Guatemala.<a href="https://blakeimmigration.netlify.app/kim/">Read more about Kim...</a></p>
    
                             <ul className="actions">
                                 <li><a href="mailto:kim@blakeimmigration.com" className="button fit">kim@blakeimmigration.com</a></li>
