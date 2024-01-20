@@ -201,7 +201,25 @@ const About = (props) => (
                         </div>
                     </div>
                 </section>
-        
+        <section>
+                    <Link to="/kim" className="image">
+                        <img src={pic43} alt="" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header className="major">
+                                <h3>Kim Whatley</h3>
+<h4>Paralegal</h4>
+                            </header>
+                            <p>Kim has worked at Blake Immigration Law since 2023, first as an administrative assistant, and now as a paralegal. Kim grew up in Guatemala City, Guatemala and attended law school at Universidad San Carlos de Guatemala.<a href="https://blakeimmigration.netlify.app/kim/">Read more about Kim...</a></p>
+   <i><p>Kim ha trabajado en Blake Immigration Law desde 2023, primero como asistente administrativa y ahora como paralegal. Kim creció en la Ciudad de Guatemala, Guatemala y asistió a la facultad de derecho en la Universidad San Carlos de Guatemala.<a href="https://blakeimmigration.netlify.app/kim/">Leer más sobre Kim...</a></p></i>
+   
+                            <ul className="actions">
+                                <li><a href="mailto:kim@blakeimmigration.com" className="button fit">kim@blakeimmigration.com</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </section>
 
 <section>
                     <Link to="/jackie" className="image">
