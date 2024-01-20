@@ -16,7 +16,7 @@ const kim = (props) => (
                 <div className="inner">
                     <header className="major">
                         <h1>Kim Whatley</h1>
-    <h3>Receptionist/Administrative Assistant</h3>
+    <h3>Paralegal</h3>
                     </header>
                     <img src={pic43} alt="" />
                     <p>Bio coming soon.</p>
