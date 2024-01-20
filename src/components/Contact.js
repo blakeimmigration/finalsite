@@ -32,7 +32,7 @@ const Contact = (props) => (
                             107 S. West St. #810<br />
                         Alexandria, VA 22314<br />
                         </span>
-<span><b>Physical Address-Alexandria</b><br />
+<span><b>Physical Address</b><br />
                             1517 King St.<br />
                         Alexandria, VA 22314<br />
                         </span>
