@@ -19,7 +19,7 @@ const Arlena= (props) => (
     <h3>Paralegal</h3>
                     </header>
                     <img src={pic45} alt="" />
-                    <p> Bio coming soon. </p>
+                    <p> Arlena has been a paralegal at Blake Immigration Law since 2023. Arlena earned a B.A. in international affairs and sociology from the University of Virginia. During college, Arlena developed her passion for immigrants' rights during her studies on race, class, and migration and supported immigrants' rights through student-led initiatives in Charlottesville, Virginia. She enjoys working in immigration law because she can see the direct impact her work has on clients' lives. In her free time Arlena enjoys attending live music venues and spending time with her dog, Luna. </p>
    
                 </div>
             </section>
