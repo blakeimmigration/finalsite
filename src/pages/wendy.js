@@ -19,7 +19,7 @@ const Wendy= (props) => (
     <h3>Paralegal</h3>
                     </header>
                     <img src={pic44} alt="" />
-                    <p> Wendy has been a paralegal at Blake Immigration Law since 2023. She grew up in Arlington, Virginia and graduated from Freedom High School. Before coming to Blake Immigration Law, Wendy worked for several years as a legal assistant at Boykin Law Firm and as an administrative assistant for LRB Business Centers in Alexandria, Virginia. Wendy loves working in immigration law because she is able to help others and learn about different cultures and customs. In her free time, Wendy enjoys photography and spending time with her two daughters. </p>
+                    <p> Wendy has been a paralegal at Blake Immigration Law since 2023. She grew up in Arlington, Virginia and graduated from Freedom High School. Before coming to Blake Immigration Law, Wendy worked for several years as a legal assistant at Boykin Law Firm and as an administrative assistant for LRB Business Centers in Alexandria, Virginia. Wendy loves working in immigration law because she is able to help others and learn about different cultures. In her free time, Wendy enjoys photography and spending time with her two daughters. </p>
    
                 </div>
             </section>
