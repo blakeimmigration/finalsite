@@ -193,7 +193,7 @@ const About = (props) => (
                                 <h3>Arlena Lara Quinteros</h3>
 <h4>Paralegal</h4>
                             </header>
-                            <p>Bio coming soon. <a href="https://blakeimmigration.netlify.app/arlena/">Read more about Arlena...</a></p>
+                            <p>Arlena has been a paralegal at Blake Immigration Law since 2023. Arlena grew up in the DMV (DC, Maryland, Virginia) area. She earned a B.A. in international affairs and sociology from the University of Virginia.<a href="https://blakeimmigration.netlify.app/arlena/">Read more about Arlena...</a></p>
    
                             <ul className="actions">
                                 <li><a href="mailto:arlena@blakeimmigration.com" className="button fit">arlena@blakeimmigration.com</a></li>
