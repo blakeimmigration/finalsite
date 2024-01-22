@@ -175,7 +175,8 @@ const About = (props) => (
                                 <h3>Wendy Vasquez</h3>
 <h4>Paralegal</h4>
                             </header>
-                            <p>Bio coming soon. <a href="https://blakeimmigration.netlify.app/wendy/">Read more about Wendy...</a></p>
+                            <p>Wendy has been a paralegal at Blake Immigration Law since 2023. She grew up in Arlington, Virginia and graduated from Freedom High School.<a href="https://blakeimmigration.netlify.app/wendy/">Read more about Wendy...</a></p>
+    <i><p>Wendy ha sido paralegal en Blake Immigration Law desde 2023. Ella creció en Arlington, Virginia y se graduó de Freedom High School.<a href="https://blakeimmigration.netlify.app/wendy/">Leer más sobre Wendy...</a></p></i>
    
                             <ul className="actions">
                                 <li><a href="mailto:wendy@blakeimmigration.com" className="button fit">wendy@blakeimmigration.com</a></li>
