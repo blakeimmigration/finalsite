@@ -221,6 +221,7 @@ const About = (props) => (
                         </div>
                     </div>
                 </section>
+    </section>
     </div>
     </Layout>
 )
