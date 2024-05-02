@@ -225,6 +225,6 @@ const About = (props) => (
      
 
     </Layout>
-)
+
 
 export default About
