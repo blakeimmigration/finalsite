@@ -31,7 +31,7 @@ const Victories = (props) => (
     </li>
     <li><b>Convention Against Torture (CAT) protection granted</b> in Hyattsville Immigration Court for Honduran client who feared persecution from the 18th Street gang. 
     </li>
-    <li><b>Asylum granted</b> in Hyattsville Immigration Court for Cameroonian client who feared persecution due to her sexual orientation. 
+    <li><b>Asylum granted</b> in Hyattsville Immigration Court for LGBT Cameroonian client who feared persecution based on her sexual orientation. 
     </li>
     <li><b>Adjustment of Status (Permanent Residency)</b> approved by U.S. Citizenship and Immigration Services (USCIS) for Salvadoran minor, due to abuse and abandonment from his parent. 
     </li>
@@ -78,7 +78,7 @@ const Victories = (props) => (
                    
        <h3>2019</h3>
                             <ul>
-                                            <li><b>Obtained custody and Special Immigrant Juvenile Status (SIJS) order</b> in Charles County, Maryland Circuit Court for minor El Salvadoran client.</li>
+                                            <li><b>Obtained custody and Special Immigrant Juvenile Status (SIJS) order</b> in Charles County, Maryland Circuit Court for minor Salvadoran client.</li>
                                             <li><b>Cancellation of Removal for Non-Legal Permanent Residents granted</b> for detained Honduran client in Arlington Immigration Court based on the hardship his removal would cause his three U.S. citizen daughters.</li>
                                             <li><b>Asylum granted</b> for Honduran client in Arlington Immigration Court based on domestic violence she suffered from her former partner including a violent stabbing and attempted murder.</li>
                                             <li><b>Affirmative application for asylum approved</b> at the Arlington Asylum Office for Turkish client based on her fear of political persecution.</li>
