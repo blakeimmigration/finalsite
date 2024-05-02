@@ -47,7 +47,7 @@ const Victories = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Asylum(2023)</h3>
+                                <h3>Asylum (2023)</h3>
                                 <i><h3>Asilo (2023)</h3></i>
                             </header>
                       
@@ -61,7 +61,7 @@ const Victories = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Asylum(2023)</h3>
+                                <h3>Asylum (2023)</h3>
                                 <i><h3>Asilo (2023)</h3></i>
                             </header>
                       
