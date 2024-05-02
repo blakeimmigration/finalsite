@@ -10,7 +10,7 @@ const Footer = (props) => (
                 
             </ul>
             <ul className="copyright"> 
-                <li>&copy; Blake Immigration Law 2020</li><li>Design: <a href="https://samrandels.io/">Sam Randels</a></li>
+                <li>&copy; Blake Immigration Law 2020</li>
             </ul>
         </div>
     </footer>
