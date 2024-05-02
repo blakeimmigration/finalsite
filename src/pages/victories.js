@@ -24,8 +24,12 @@ const Victories = (props) => (
     <ul>
      <li><b>Violence Against Women Act (VAWA) petition approved</b> by U.S. Citizenship and Immigration Services (USCIS) for Russian client who was abused by her U.S. citizen husband.
     </li>
-    <ul>
-     <li><b>Asylum granted</b> in Hyattasville Immigration Court for Cameroonian client who feared persecution based on his anti-corruption political opinion
+   <li><b>Asylum granted</b> in Annandale Immigration Court for Ukrainian family who feared religious persecution.
+    </li>
+   </li>
+   <li><b>Asylum granted</b> in Hyattsville Immigration Court for Honduran woman who feared domestic violence from her ex-partner. 
+    </li>
+    <li><b>Convention Against Torture (CAT) protection granted</b> in Hyattsville Immigration Court for Honduran woman who feared persecution from the 18th Street gang. 
     </li>
     </ul>        
     <h3>2022</h3>
