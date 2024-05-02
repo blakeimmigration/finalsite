@@ -15,7 +15,7 @@ import pic40 from '../assets/images/pic40.jpg'
 import pic41 from '../assets/images/pic41.jpg'
 import pic43 from '../assets/images/pic43.jpg'
 import pic44 from '../assets/images/pic44.jpg'
-
+import pic45 from '../assets/images/pic45.jpg'
 
 
 const About = (props) => (
