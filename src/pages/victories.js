@@ -23,7 +23,6 @@ const Victories = (props) => (
     <ul>
      <li><b>Cancellation of Removal approved</b> in Annandale Immigration Court for Honduran client whose removal would lead to exceptional and extremely unusual hardship to his four U.S. citizen children. 
     </li>
-    <ul>
      <li><b>Violence Against Women Act (VAWA) petition approved</b> by U.S. Citizenship and Immigration Services (USCIS) for Russian client who was abused by her U.S. citizen husband.
     </li>
    <li><b>Asylum granted</b> in Annandale Immigration Court for Ukrainian family who feared religious persecution.
