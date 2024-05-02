@@ -20,6 +20,8 @@ import pic46 from '../assets/images/pic46.jpg'
 import pic47 from '../assets/images/pic47.jpg'
 import pic48 from '../assets/images/pic48.jpg'
 import pic49 from '../assets/images/pic49.jpg'
+import pic50 from '../assets/images/pic50.jpg'
+import pic51 from '../assets/images/pic51.jpg'
 
 const Victories = (props) => (
     <Layout>
