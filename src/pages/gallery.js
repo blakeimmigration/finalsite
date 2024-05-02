@@ -40,6 +40,20 @@ const Victories = (props) => (
             <section id="two" className="spotlights">
      <section>
                     <Link to="/gallery" className="image">
+                        <img src={pic46} alt="" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header className="major">
+                                <h3>Asylum (2023)</h3>
+                                <i><h3>Asilo (2023)</h3></i>
+                            </header>
+                      
+                        </div>
+                    </div>
+                </section>
+     <section>
+                    <Link to="/gallery" className="image">
                         <img src={pic47} alt="" />
                     </Link>
                     <div className="content">
