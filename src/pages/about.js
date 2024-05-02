@@ -223,24 +223,7 @@ const About = (props) => (
                 </section>
 
 <section>
-                    <Link to="/jackie" className="image">
-                        <img src={pic40} alt="" />
-                    </Link>
-                    <div className="content">
-                        <div className="inner">
-                            <header className="major">
-                                <h3>Jackie Citalan</h3>
-<h4>Receptionist/Administrative Assistant</h4>
-                            </header>
-                            <p>Jackie has been a receptionist and administrative assistant at Blake Immigration Law since 2022. She grew up in Northern Virginia and graduated from Washington-Lee High School. <a href="https://blakeimmigration.netlify.app/jackie/">Read more about Jackie...</a></p>
-    <i><p>Jackie ha sido recepcionista y asistente administrativa en Blake Immigration Law desde 2022. Creció en el norte de Virginia y se graduó de Washington-Lee High School. <a href="https://blakeimmigration.netlify.app/jackie/">Leer más sobre Jackie ... </a></p></i>
-                            <ul className="actions">
-                                <li><a href="mailto:jackie@blakeimmigration.com" className="button fit">jackie@blakeimmigration.com</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </section>
- 
+            
            </section>
         </div>
 
