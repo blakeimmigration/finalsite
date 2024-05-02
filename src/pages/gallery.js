@@ -16,6 +16,7 @@ import pic35 from '../assets/images/pic35.jpg'
 import pic36 from '../assets/images/pic36.jpg'
 import pic37 from '../assets/images/pic37.jpg'
 import pic38 from '../assets/images/pic38.jpg'
+import pic47 from '../assets/images/pic47.jpg'
 import pic48 from '../assets/images/pic48.jpg'
 
 
@@ -36,6 +37,20 @@ const Victories = (props) => (
             </section>
     
             <section id="two" className="spotlights">
+     <section>
+                    <Link to="/gallery" className="image">
+                        <img src={pic47} alt="" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header className="major">
+                                <h3>Adjustment of Status (Residency)(2022)</h3>
+                                <i><h3>Ajuste de Estatus (Residencia)(2022)</h3></i>
+                            </header>
+                      
+                        </div>
+                    </div>
+                </section>
         <section>
                     <Link to="/gallery" className="image">
                         <img src={pic48} alt="" />
