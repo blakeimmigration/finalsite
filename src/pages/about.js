@@ -222,9 +222,6 @@ const About = (props) => (
                     </div>
                 </section>
 
-<section>
-            
-           </section>
         </div>
 
     </Layout>
