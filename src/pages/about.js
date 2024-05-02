@@ -221,6 +221,7 @@ const About = (props) => (
                         </div>
                     </div>
                 </section>
+    </div>
     </Layout>
 )
 export default About
