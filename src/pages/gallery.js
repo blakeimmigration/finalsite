@@ -16,6 +16,7 @@ import pic35 from '../assets/images/pic35.jpg'
 import pic36 from '../assets/images/pic36.jpg'
 import pic37 from '../assets/images/pic37.jpg'
 import pic38 from '../assets/images/pic38.jpg'
+import pic38 from '../assets/images/pic46.jpg'
 import pic47 from '../assets/images/pic47.jpg'
 import pic48 from '../assets/images/pic48.jpg'
 
