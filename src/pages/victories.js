@@ -101,6 +101,6 @@ const Victories = (props) => (
 
         
     </Layout>
-
+)
 
 export default Victories
