@@ -20,7 +20,15 @@ const Victories = (props) => (
                       
                     
     <h4><p>We have represented clients from all over the world including El Salvador, Honduras, Guatemala, Mexico, Costa Rica, Nicaragua, Venezuela, Colombia, Cuba, Jamaica, Haiti, Peru, Philippines, Pakistan, Azerbaijan, Afghanistan, Turkey, Ukraine, Turkmenistan, Iran, Ethiopia, Cameroon, Sierra Leone, Mongolia, Vietnam, South Korea, China and Ghana. Below is a sample of some of our victories: </p></h4>
-        <h3>2022</h3>
+      <h3>2023</h3>
+    <ul>
+     <li><b>Violence Against Women Act (VAWA) petition approved</b> by U.S. Citizenship and Immigration Services (USCIS) for Russian client who was abused by her U.S. citizen husband.
+    </li>
+    <ul>
+     <li><b>Asylum granted</b> in Hyattasville Immigration Court for Cameroonian client who feared persecution based on his anti-corruption political opinion
+    </li>
+    </ul>        
+    <h3>2022</h3>
     <ul>
      <li><b>Asylum granted</b> in Arlington Immigration Court for Afghan client and activist who feared persecution based on her feminist political opinion.
     </li>
