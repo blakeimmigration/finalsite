@@ -16,7 +16,14 @@ import pic35 from '../assets/images/pic35.jpg'
 import pic36 from '../assets/images/pic36.jpg'
 import pic37 from '../assets/images/pic37.jpg'
 import pic38 from '../assets/images/pic38.jpg'
-
+import pic46 from '../assets/images/pic46.jpg'
+import pic47 from '../assets/images/pic47.jpg'
+import pic48 from '../assets/images/pic48.jpg'
+import pic49 from '../assets/images/pic49.jpg'
+import pic50 from '../assets/images/pic50.jpg'
+import pic51 from '../assets/images/pic51.jpg'
+import pic52 from '../assets/images/pic52.jpg'
+import pic53 from '../assets/images/pic53.jpg'
 
 const Victories = (props) => (
     <Layout>
@@ -33,6 +40,7 @@ const Victories = (props) => (
                    
                 </div>
             </section>
+    
             <section id="two" className="spotlights">
                 <section>
                     <Link to="/gallery" className="image">
