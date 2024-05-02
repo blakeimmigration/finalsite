@@ -16,7 +16,7 @@ import pic35 from '../assets/images/pic35.jpg'
 import pic36 from '../assets/images/pic36.jpg'
 import pic37 from '../assets/images/pic37.jpg'
 import pic38 from '../assets/images/pic38.jpg'
-import pic48 from '../assets/images/pic48.jpeg'
+import pic48 from '../assets/images/pic48.jpg'
 
 
 const Victories = (props) => (
@@ -43,8 +43,8 @@ const Victories = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Asylum(2022)</h3>
-                                <i><h3>Asilo(2022)</h3></i>
+                                <h3>Asylum (2022)</h3>
+                                <i><h3>Asilo (2022)</h3></i>
                             </header>
                       
                         </div>
