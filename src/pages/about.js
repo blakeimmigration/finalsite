@@ -16,6 +16,7 @@ import pic41 from '../assets/images/pic41.jpg'
 import pic43 from '../assets/images/pic43.jpg'
 import pic44 from '../assets/images/pic44.jpg'
 import pic45 from '../assets/images/pic45.jpg'
+import pic54 from '../assets/images/pic54.jpg'
 
 
 const About = (props) => (
@@ -102,6 +103,24 @@ const About = (props) => (
     <i><p>Jennifer ha trabajado en Blake Immigration Law desde 2017, primeramente como paralegal y como abogada desde 2022. Creció en el norte de Virginia y obtuvo su B.A. en ciencias políticas de la Universidad Estatal de Pensilvania y su J.D. de la facultad de derecho David A. Clarke de la universidad del Distrito de Columbia (UDC). <a href="https://blakeimmigration.netlify.app/jennifer/">Leer más sobre Jennifer ... </a></p></i>
                             <ul className="actions">
                                 <li><a href="mailto:jennifer@blakeimmigration.com" className="button fit">jennifer@blakeimmigration.com</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </section>
+    <section>
+                    <Link to="/Victoria" className="image">
+                        <img src={pic54} alt="" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header className="major">
+                                <h3>Victoria Grimm</h3>
+<h4>Law Clerk</h4>
+                            </header>
+                            <p>More information coming soon</p>
+    <i><p>Próximamente habrá más información</p></i>
+                            <ul className="actions">
+                                <li><a href="mailto:victoria@blakeimmigration.com" className="button fit">victoria@blakeimmigration.com</a></li>
                             </ul>
                         </div>
                     </div>
