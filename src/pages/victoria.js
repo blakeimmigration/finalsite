@@ -7,7 +7,7 @@ import pic54 from '../assets/images/pic54.jpg'
 const Victoria = (props) => (
     <Layout>
         <Helmet>
-            <title>Victoria/title>
+            <title>Victoria</title>
             <meta name="description" content="Victoria Page" />
         </Helmet>
 
