@@ -4,10 +4,10 @@ import Layout from '../components/layout'
 
 import pic54 from '../assets/images/pic54.jpg'
 
-const Shane = (props) => (
+const Victoria = (props) => (
     <Layout>
         <Helmet>
-            <title>Shane</title>
+            <title>Victoria/title>
             <meta name="description" content="Victoria Page" />
         </Helmet>
 
