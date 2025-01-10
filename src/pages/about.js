@@ -21,7 +21,7 @@ import pic45 from '../assets/images/pic45.jpg'
 const About = (props) => (
     <Layout>
         <Helmet>
-            <title>About</title>
+            <title>About Test</title>
             <meta name="description" content="About Page" />
         </Helmet>
 
