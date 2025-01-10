@@ -18,7 +18,6 @@ import pic44 from '../assets/images/pic44.jpg'
 import pic45 from '../assets/images/pic45.jpg'
 
 
-
 const About = (props) => (
     <Layout>
         <Helmet>
@@ -107,7 +106,6 @@ const About = (props) => (
                         </div>
                     </div>
                 </section>
-    
                     <section>
                     <Link to="/karina" className="image">
                         <img src={pic11} alt="" />
