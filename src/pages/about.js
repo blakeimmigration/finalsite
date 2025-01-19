@@ -107,7 +107,24 @@ const About = (props) => (
                         </div>
                     </div>
                 </section>
-
+ <section>
+                    <Link to="/jennifer" className="image">
+                        <img src={pic20} alt="" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header className="major">
+                                <h3>Jennifer Araujo, Esq.</h3>
+<h4>Associate Attorney</h4>
+                            </header>
+                            <p>Jennifer has worked at Blake Immigration Law since 2017, first as a paralegal, and as an attorney since 2022. She grew up in northern Virginia and earned her B.A. in political science from the Pennsylvania State University and her J.D. from the University of the District of Columbia (UDC) David A. Clarke School of Law. <a href="https://blakeimmigration.netlify.app/jennifer/">Read more about Jennifer...</a></p>
+    <i><p>Jennifer ha trabajado en Blake Immigration Law desde 2017, primeramente como paralegal y como abogada desde 2022. Creció en el norte de Virginia y obtuvo su B.A. en ciencias políticas de la Universidad Estatal de Pensilvania y su J.D. de la facultad de derecho David A. Clarke de la universidad del Distrito de Columbia (UDC). <a href="https://blakeimmigration.netlify.app/jennifer/">Leer más sobre Jennifer ... </a></p></i>
+                            <ul className="actions">
+                                <li><a href="mailto:jennifer@blakeimmigration.com" className="button fit">jennifer@blakeimmigration.com</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </section>
                     <section>
                     <Link to="/karina" className="image">
                         <img src={pic11} alt="" />
