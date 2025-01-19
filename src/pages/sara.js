@@ -20,7 +20,7 @@ const sara = (props) => (
                     </header>
                     <img src={pic55} alt="" />
                     <p>More information soon. </p>
-<i><p>Mas informacion pronto.</p></i>
+<i><p>Más información pronto.</p></i>
                     
                 </div>
             </section>
