@@ -19,8 +19,8 @@ const Victoria = (props) => (
     <h3>Associate Attorney</h3>
                     </header>
                     <img src={pic54} alt="" />
-                    <p>Victoria is a law clerk at Blake Immigration Law.</p>
-<i><p>Victoria is a law clerk at Blake Immigration Law.</p></i>
+                    <p>More information coming soon.</p>
+<i><p>Más información pronto.</p></i>
                    
                 </div>
             </section>
