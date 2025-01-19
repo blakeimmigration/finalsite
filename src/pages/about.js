@@ -32,7 +32,8 @@ const About = (props) => (
             <section id="one">
                 <div className="inner">
                    <p>We are a group of immigration law professionals including attorneys, law clerks, paralegals, and administrative assistants committed to offering the best possible service to our clients.</p>
-                </div>
+   <i><p> Somos un grupo de profesionales del derecho de inmigración que incluye abogados, asistentes legales, asistentes legales y asistentes administrativos comprometidos a ofrecer el mejor servicio posible a nuestros clientes. </p></i>           
+    </div>
             </section>
             <section id="two" className="spotlights">
                 <section>
