@@ -107,24 +107,7 @@ const About = (props) => (
                         </div>
                     </div>
                 </section>
-         <section>
-                    <Link to="/jennifer" className="image">
-                        <img src={pic54} alt="" />
-                    </Link>
-                    <div className="content">
-                        <div className="inner">
-                            <header className="major">
-                                <h3>Victoria Grimm</h3>
-<h4>Law Clerk</h4>
-                            </header>
-                            <p>Bio coming soon...</a></p>
-    <i><p> Biografía próximamente...</a></p></i>
-                            <ul className="actions">
-                                <li><a href="mailto:victoria@blakeimmigration.com" className="button fit">victoria@blakeimmigration.com</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </section>
+
                     <section>
                     <Link to="/karina" className="image">
                         <img src={pic11} alt="" />
