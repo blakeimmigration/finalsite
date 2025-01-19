@@ -31,7 +31,7 @@ const About = (props) => (
         <div id="main">
             <section id="one">
                 <div className="inner">
-                   
+                   <p>testing</p>
                 </div>
             </section>
             <section id="two" className="spotlights">
