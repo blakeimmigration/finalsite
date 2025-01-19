@@ -31,7 +31,7 @@ const About = (props) => (
         <div id="main">
             <section id="one">
                 <div className="inner">
-                   <p>testing</p>
+                   <p>We are a group of immigration law professionals including attorneys, law clerks, paralegals, and administrative assistants committed to offering the best possible service to our clients.</p>
                 </div>
             </section>
             <section id="two" className="spotlights">
