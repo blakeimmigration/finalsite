@@ -222,6 +222,24 @@ const About = (props) => (
                         </div>
                     </div>
                 </section>
+      <section>
+                    <Link to="/arlena" className="image">
+                        <img src={pic45} alt="" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header className="major">
+                                <h3>Arlena Lara Quinteros</h3>
+<h4>Paralegal</h4>
+                            </header>
+                            <p>Arlena has been a paralegal at Blake Immigration Law since 2023. Arlena grew up in the DMV (DC, Maryland, Virginia) area. She earned a B.A. in international affairs and sociology from the University of Virginia.<a href="https://blakeimmigration.netlify.app/arlena/">Read more about Arlena...</a></p>
+    <i><p>Arlena ha sido paralegal en Blake Immigration Law desde 2023. Arlena creció en el área del DMV (DC, Maryland, Virginia). Ella obtuvo su B.A. en asuntos internacionales y sociología de la Universidad de Virginia.<a href="https://blakeimmigration.netlify.app/arlena/">Leer más sobre Arlena...</a></p></i>
+                            <ul className="actions">
+                                <li><a href="mailto:arlena@blakeimmigration.com" className="button fit">arlena@blakeimmigration.com</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </section>
         <section>
                     <Link to="/kim" className="image">
                         <img src={pic43} alt="" />
