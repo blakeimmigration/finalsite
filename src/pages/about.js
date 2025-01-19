@@ -253,7 +253,7 @@ const About = (props) => (
 <h4>Administrative Assistant</h4>
                             </header>
                             <p>Bio coming soon...<a href="https://blakeimmigration.netlify.app/sara/">Read more about Sara...</a></p>
-    <i><p>Biografía próximamente...<a href="https://blakeimmigration.netlify.app/arlena/">Leer más sobre Sara...</a></p></i>
+    <i><p>Biografía próximamente...<a href="https://blakeimmigration.netlify.app/sara/">Leer más sobre Sara...</a></p></i>
                             <ul className="actions">
                                 <li><a href="mailto:sara@blakeimmigration.com" className="button fit">sara@blakeimmigration.com</a></li>
                             </ul>
