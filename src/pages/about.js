@@ -120,7 +120,7 @@ const About = (props) => (
                             <p>Bio Coming Soon...<a href="https://blakeimmigration.netlify.app/victoria/">Read more about Victoria...</a></p>
     <i><p>Biografía pronto...<a href="https://blakeimmigration.netlify.app/victoria/">Leer más sobre Victoria... </a></p></i>
                             <ul className="actions">
-                                <li><a href="mailto:jennifer@blakeimmigration.com" className="button fit">jennifer@blakeimmigration.com</a></li>
+                                <li><a href="mailto:victoria@blakeimmigration.com" className="button fit">victoria@blakeimmigration.com</a></li>
                             </ul>
                         </div>
                     </div>
