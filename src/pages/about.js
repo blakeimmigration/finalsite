@@ -263,7 +263,7 @@ const About = (props) => (
                 </section>
      <section>
                     <Link to="/sashenka" className="image">
-                        <img src={pic55} alt="" />
+                        <img src={pic71} alt="" />
                     </Link>
                     <div className="content">
                         <div className="inner">
