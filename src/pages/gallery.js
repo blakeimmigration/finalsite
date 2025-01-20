@@ -22,6 +22,21 @@ import pic48 from '../assets/images/pic48.jpg'
 import pic49 from '../assets/images/pic49.jpg'
 import pic50 from '../assets/images/pic50.jpg'
 import pic51 from '../assets/images/pic51.jpg'
+import pic57 from '../assets/images/pic57.jpg'
+import pic58 from '../assets/images/pic58.jpg'
+import pic59 from '../assets/images/pic59.jpg'
+import pic60 from '../assets/images/pic60.jpg'
+import pic61 from '../assets/images/pic61.jpg'
+import pic62 from '../assets/images/pic62.jpg'
+import pic63 from '../assets/images/pic63.jpg'
+import pic64 from '../assets/images/pic64.jpg'
+import pic65 from '../assets/images/pic65.jpg'
+import pic66 from '../assets/images/pic66.jpg'
+import pic67 from '../assets/images/pic67.jpg'
+import pic68 from '../assets/images/pic68.jpg'
+import pic69 from '../assets/images/pic69.jpg'
+import pic70 from '../assets/images/pic70.jpg'
+
 
 const Victories = (props) => (
     <Layout>
@@ -40,6 +55,20 @@ const Victories = (props) => (
             </section>
     
             <section id="two" className="spotlights">
+     <section>
+                    <Link to="/gallery" className="image">
+                        <img src={pic57} alt="" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header className="major">
+                                <h3>Asylum (2024)</h3>
+                                <i><h3>Asilo (2024)</h3></i>
+                            </header>
+                      
+                        </div>
+                    </div>
+                </section>
      <section>
                     <Link to="/gallery" className="image">
                         <img src={pic51} alt="" />
