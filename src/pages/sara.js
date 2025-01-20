@@ -8,7 +8,7 @@ const Sara= (props) => (
     <Layout>
         <Helmet>
             <title>Sara Sanchez</title>
-            <meta name="description" content="Sarai Page" />
+            <meta name="description" content="Sara Page" />
         </Helmet>
 
         <div id="main" className="alt">
