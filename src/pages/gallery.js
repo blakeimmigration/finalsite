@@ -55,6 +55,34 @@ const Victories = (props) => (
             </section>
     
             <section id="two" className="spotlights">
+    <section>
+                    <Link to="/gallery" className="image">
+                        <img src={pic65} alt="" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header className="major">
+                                <h3>Asylum (2024)</h3>
+                                <i><h3>Asilo (2024)</h3></i>
+                            </header>
+                      
+                        </div>
+                    </div>
+                </section>
+         <section>
+                    <Link to="/gallery" className="image">
+                        <img src={pic64} alt="" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header className="major">
+                                <h3>Asylum (2024)</h3>
+                                <i><h3>Asilo (2024)</h3></i>
+                            </header>
+                      
+                        </div>
+                    </div>
+                </section>
      <section>
                     <Link to="/gallery" className="image">
                         <img src={pic62} alt="" />
