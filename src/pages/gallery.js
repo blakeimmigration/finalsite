@@ -63,7 +63,7 @@ const Victories = (props) => (
                         <div className="inner">
                             <header className="major">
                                 <h3>Asylum (2024)</h3>
-                                <i><h3>Asilo(2024)</h3></i>
+                                <i><h3>Asilo (2024)</h3></i>
                             </header>
                       
                         </div>
