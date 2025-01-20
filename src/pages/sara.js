@@ -30,7 +30,4 @@ const Sara= (props) => (
 
 export default Sara
 
-    </Layout>
-)
-
-export default Sara
+ 
