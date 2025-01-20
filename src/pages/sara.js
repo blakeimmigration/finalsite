@@ -4,10 +4,10 @@ import Layout from '../components/layout'
 
 import pic55 from '../assets/images/pic55.jpg'
 
-const sara = (props) => (
+const Victoria = (props) => (
     <Layout>
         <Helmet>
-            <title>Sara Sanchez</title>
+            <title>Sara</title>
             <meta name="description" content="Sara Page" />
         </Helmet>
 
@@ -16,15 +16,20 @@ const sara = (props) => (
                 <div className="inner">
                     <header className="major">
                         <h1>Sara Sanchez</h1>
-    <h3>Administrative Assistant</h3>
+    <h3>Law Clerk</h3>
                     </header>
                     <img src={pic55} alt="" />
-                    <p>More information soon. </p>
+                    <p>More information coming soon.</p>
 <i><p>Más información pronto.</p></i>
-                    
+                   
                 </div>
             </section>
         </div>
+
+    </Layout>
+)
+
+export default Sara
 
     </Layout>
 )
