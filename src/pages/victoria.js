@@ -16,7 +16,7 @@ const Victoria = (props) => (
                 <div className="inner">
                     <header className="major">
                         <h1>Victoria Grimm</h1>
-    <h3>Associate Attorney</h3>
+    <h3>Law Clerk</h3>
                     </header>
                     <img src={pic54} alt="" />
                     <p>More information coming soon.</p>
