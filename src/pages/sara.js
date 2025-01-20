@@ -4,7 +4,7 @@ import Layout from '../components/layout'
 
 import pic55 from '../assets/images/pic55.jpg'
 
-const Victoria = (props) => (
+const Sara = (props) => (
     <Layout>
         <Helmet>
             <title>Sara</title>
@@ -34,4 +34,4 @@ export default Sara
     </Layout>
 )
 
-export default sara
+export default Sara
