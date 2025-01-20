@@ -57,6 +57,90 @@ const Victories = (props) => (
             <section id="two" className="spotlights">
      <section>
                     <Link to="/gallery" className="image">
+                        <img src={pic62} alt="" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header className="major">
+                                <h3>Asylum (2024)</h3>
+                                <i><h3>Asilo(2024)</h3></i>
+                            </header>
+                      
+                        </div>
+                    </div>
+                </section>
+     <section>
+                    <Link to="/gallery" className="image">
+                        <img src={pic63} alt="" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header className="major">
+                                <h3>Adjustment of Status (Residency)(2024)</h3>
+                                <i><h3>Ajuste de Estatus (Residencia)(2024)</h3></i>
+                            </header>
+                      
+                        </div>
+                    </div>
+                </section>
+     <section>
+                    <Link to="/gallery" className="image">
+                        <img src={pic61} alt="" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header className="major">
+                                <h3>Adjustment of Status (Residency)(2024)</h3>
+                                <i><h3>Ajuste de Estatus (Residencia)(2024)</h3></i>
+                            </header>
+                      
+                        </div>
+                    </div>
+                </section>
+    <section>
+                    <Link to="/gallery" className="image">
+                        <img src={pic60} alt="" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header className="major">
+                                <h3>Adjustment of Status (Residency)(2024)</h3>
+                                <i><h3>Ajuste de Estatus (Residencia)(2024)</h3></i>
+                            </header>
+                      
+                        </div>
+                    </div>
+                </section>
+    <section>
+                    <Link to="/gallery" className="image">
+                        <img src={pic59} alt="" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header className="major">
+                                <h3>Asylum (2024)</h3>
+                                <i><h3>Asilo (2024)</h3></i>
+                            </header>
+                      
+                        </div>
+                    </div>
+                </section>
+      <section>
+                    <Link to="/gallery" className="image">
+                        <img src={pic58} alt="" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header className="major">
+                                <h3>Asylum (2024)</h3>
+                                <i><h3>Asilo (2024)</h3></i>
+                            </header>
+                      
+                        </div>
+                    </div>
+                </section>
+     <section>
+                    <Link to="/gallery" className="image">
                         <img src={pic57} alt="" />
                     </Link>
                     <div className="content">
