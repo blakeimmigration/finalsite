@@ -19,8 +19,8 @@ const Victoria = (props) => (
     <h3>Law Clerk</h3>
                     </header>
                     <img src={pic54} alt="" />
-                    <p>More information coming soon.</p>
-<i><p>Más información pronto.</p></i>
+                    <p>Victoria grew up nearby in Fairfax, Virginia. She earned her B.A. in international relations from Virginia Tech and law degree from George Washington University Law School. During law school she was active in GW Immigration Law Clinic. Victoria enjoys working in immigration law because she can transforms the lives of others and benefit the entire community. She also enjoys learning about different cultural backgrounds. In her free time Victoria likes to watch musicals, read, and try new foods.</p>
+<i><p>Victoria creció en Fairfax, Virginia. Obtuvo su licenciatura en relaciones internacionales en Virginia Tech y su doctorada en derecho de la Facultad de Derecho de la Universidad George Washington. Durante sus estudios de derecho, participó activamente en la Clínica de Derecho de Inmigración de la Universidad George Washington. A Victoria le gusta trabajar en el ámbito del derecho de inmigración porque puede transformar la vida de los demás y beneficiar a toda la comunidad. También disfruta aprendiendo sobre diferentes culturas. En su tiempo libre, a Victoria le gusta ver musicales, leer y probar nuevas comidas.</p></i>
                    
                 </div>
             </section>
