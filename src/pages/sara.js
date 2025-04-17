@@ -19,7 +19,7 @@ const Sara= (props) => (
     <h3>Administrative Assistant</h3>
                     </header>
                     <img src={pic55} alt="" />
-                    <p>More information coming soon.</p>
+                    <p>Sara has been an administrative assistant at Blake Immigration Law since 2024. Sara grew up in Colombia and immigrated to the United States in 2021. She studied law at the Universidad Autónoma Latinoamericana in Medellín, Colombia and since coming to the United States gained significant experience in customer service and administrative management. Her passion for immigration law comes from her own personal journey. She strongly believes in the opportunities for immigrants in the United States for better and more peaceful life. She enjoys helping others through their immigration process and ensuring they have the support they need. Outside of work Sara loves spending time with her family and her dog, Bailey. She also loves learning languages; she is fluent in three languages and currenly learning Italian. She also enjoys hiking, watching movies, and traveling.  </p>
 <p><i>Más información próximamente.</i></p>
                 </div>
             </section>
