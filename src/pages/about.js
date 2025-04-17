@@ -47,7 +47,7 @@ const About = (props) => (
                                 <h3>Jillian Blake, Esq.</h3>
                                 <h4>Principal Attorney/Owner</h4>
                             </header>
-                            <p>Jillian N. Blake has been an attorney at Blake Immigration Law since founding the firm in 2015. She grew up in San Francisco, California and earned her B.A. and M.A. in international relations from Johns Hopkins University. She received her J.D. from the University of Michigan Law School. <a href="https://blakeimmigration.netlify.app/jillian/">Read more about Jillian...</a></p>
+                            <p>Jillian Blake has been an attorney at Blake Immigration Law since founding the firm in 2015. She grew up in San Francisco, California and earned her B.A. and M.A. in international relations from Johns Hopkins University. She received her J.D. from the University of Michigan Law School. <a href="https://blakeimmigration.netlify.app/jillian/">Read more about Jillian...</a></p>
     <i><p>Jillian ha sido abogada en Blake Immigration Law desde 2015. Creció en San Francisco, California y obtuvo su B.A. y M.A. en relaciones internacionales de la Universidad Johns Hopkins. Obtuvo su J.D. de la Facultad de Derecho de la Universidad de Michigan. <a href="https://blakeimmigration.netlify.app/jillian/">Leer más sobre Jillian ...</a></p></i>
                             <ul className="actions">
                                 <li><a href="mailto:jillian@blakeimmigration.com" className="button fit">jillian@blakeimmigration.com</a></li>
@@ -186,25 +186,7 @@ const About = (props) => (
                         </div>
                     </div>
                 </section>
-    <section>
-                    <Link to="/wendy" className="image">
-                        <img src={pic44} alt="" />
-                    </Link>
-                    <div className="content">
-                        <div className="inner">
-                            <header className="major">
-                                <h3>Wendy Vasquez</h3>
-<h4>Paralegal</h4>
-                            </header>
-                            <p>Wendy has been a paralegal at Blake Immigration Law since 2023. She grew up in Arlington, Virginia and graduated from Freedom High School.<a href="https://blakeimmigration.netlify.app/wendy/">Read more about Wendy...</a></p>
-    <i><p>Wendy ha sido paralegal en Blake Immigration Law desde 2023. Ella creció en Arlington, Virginia y se graduó de Freedom High School.<a href="https://blakeimmigration.netlify.app/wendy/">Leer más sobre Wendy...</a></p></i>
-   
-                            <ul className="actions">
-                                <li><a href="mailto:wendy@blakeimmigration.com" className="button fit">wendy@blakeimmigration.com</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </section>
+    
     <section>
                     <Link to="/arlena" className="image">
                         <img src={pic45} alt="" />
