@@ -1,12 +1,12 @@
 import React from 'react'
-import memberlogo from '../assets/images/Member_Logo_2025-3-200x200.pdf'
+import pic72 from 'pic72.pdf'
 
 
 const Contact = (props) => (
     <section id="contact">
         <div className="inner">
             <section>
-    <img src={memberlogo} width="200" height="200" alt="" />
+    <img src={pic72} width="200" height="200" alt="" />
 
             </section>
             <section className="split">
