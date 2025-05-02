@@ -1,5 +1,5 @@
 import React from 'react'
-import pic72 from 'pic72.pdf'
+import pic72 from 'pic72.png'
 
 
 const Contact = (props) => (
