@@ -17,8 +17,6 @@ import pic43 from '../assets/images/pic43.jpg'
 import pic44 from '../assets/images/pic44.jpg'
 import pic45 from '../assets/images/pic45.jpg'
 import pic54 from '../assets/images/pic54.jpg'
-import pic55 from '../assets/images/pic55.jpg'
-import pic71 from '../assets/images/pic71.jpg'
 
 const About = (props) => (
     <Layout>
