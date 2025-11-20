@@ -18,7 +18,7 @@ import pic44 from '../assets/images/pic44.jpg'
 import pic45 from '../assets/images/pic45.jpg'
 import pic54 from '../assets/images/pic54.jpg'
 import pic55 from '../assets/images/pic55.jpg'
-import pic71 from '../assets/images/pic71.jpg'
+
 
 const About = (props) => (
     <Layout>
@@ -243,24 +243,7 @@ const About = (props) => (
                         </div>
                     </div>
                 </section>
-     <section>
-                    <Link to="/sashenka" className="image">
-                        <img src={pic71} alt="" />
-                    </Link>
-                    <div className="content">
-                        <div className="inner">
-                            <header className="major">
-                                <h3>Sashenka Fernandez</h3>
-<h4>Administrative Assistant</h4>
-                            </header>
-                            <p>Bio coming soon...<a href="https://blakeimmigration.netlify.app/sashenka/">Read more about Sashenka...</a></p>
-    <i><p>Biografía próximamente...<a href="https://blakeimmigration.netlify.app/sara/">Leer más sobre Sashenka...</a></p></i>
-                            <ul className="actions">
-                                <li><a href="mailto:sashenka@blakeimmigration.com" className="button fit">sashenka@blakeimmigration.com</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </section>
+   
        </section>
 
  
