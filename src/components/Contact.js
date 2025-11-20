@@ -1,12 +1,11 @@
 import React from 'react'
-import pic72 from 'pic72.jpg'
+
 
 
 const Contact = (props) => (
     <section id="contact">
         <div className="inner">
             <section>
-    <img src={pic72} width="200" height="200" alt="" />
 
             </section>
             <section className="split">
