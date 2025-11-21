@@ -119,8 +119,8 @@ const About = (props) => (
                                 <h3>Victoria Grimm</h3>
 <h4>Associate Attorney</h4>
                             </header>
-                            <p>Victoria has been a Associate Attorney at Blake Immigration Law since 2025, and previously worked since 2024 as a Law Clerk. Victoria grew up nearby in Fairfax, Virginia. She earned her B.A. in international relations from Virginia Tech and law degree from George Washington University Law School.<a href="https://blakeimmigration.netlify.app/victoria/">Read more about Victoria...</a></p>
-    <i><p>Victoria ha sido asistente legal en Blake Immigration Law desde 2024. Victoria creció en Fairfax, Virginia. Obtuvo su licenciatura en relaciones internacionales de Virginia Tech y su doctorada en derecho de la Facultad de Derecho de la Universidad George Washington.<a href="https://blakeimmigration.netlify.app/victoria/">Leer más sobre Victoria... </a></p></i>
+                            <p>Victoria has worked at Blake Immigration Law since 2024, first as a law clerk and now as an attorney. Victoria grew up nearby in Fairfax, Virginia. She earned her B.A. in international relations from Virginia Tech and law degree from George Washington University Law School.<a href="https://blakeimmigration.netlify.app/victoria/">Read more about Victoria...</a></p>
+    <i><p>Victoria ha trabajado en Blake Immigration Law desde 2024 primeramente como asistente legal y ahora como abogada. Victoria creció en Fairfax, Virginia. Obtuvo su licenciatura en relaciones internacionales de Virginia Tech y su doctorada en derecho de la Facultad de Derecho de la Universidad George Washington.<a href="https://blakeimmigration.netlify.app/victoria/">Leer más sobre Victoria... </a></p></i>
                             <ul className="actions">
                                 <li><a href="mailto:victoria@blakeimmigration.com" className="button fit">victoria@blakeimmigration.com</a></li>
                             </ul>
