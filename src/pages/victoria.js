@@ -16,7 +16,7 @@ const Victoria = (props) => (
                 <div className="inner">
                     <header className="major">
                         <h1>Victoria Grimm</h1>
-    <h3>Law Clerk</h3>
+    <h3>Associate Attorney</h3>
                     </header>
                     <img src={pic54} alt="" />
                     <p>Victoria grew up nearby in Fairfax, Virginia. She earned her B.A. in international relations from Virginia Tech and law degree from George Washington University Law School. During law school she was active in the GW Immigration Law Clinic. Victoria enjoys working in immigration law because she can transform the lives of others and benefit the entire community. She also enjoys learning about different cultural backgrounds. In her free time Victoria likes to watch musicals, read, and try new foods.</p>
