@@ -239,7 +239,7 @@ const About = (props) => (
    <i><p>Biografía próximamente...</a></p></i>
    
                             <ul className="actions">
-                                <li><a href="mailto:elsablakeimmigration.com" className="button fit">elas@blakeimmigration.com</a></li>
+                                <li><a href="mailto:elsa@blakeimmigration.com" className="button fit">elsa@blakeimmigration.com</a></li>
                             </ul>
                         </div>
                     </div>
