@@ -206,7 +206,7 @@ const About = (props) => (
                     </div>
                 </section>
      
-        <section>
+    <section>
                     <Link to="/kim" className="image">
                         <img src={pic43} alt="" />
                     </Link>
@@ -225,7 +225,25 @@ const About = (props) => (
                         </div>
                     </div>
                 </section>
-    
+      <section>
+                    <Link to="/elsa" className="image">
+                    
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header className="major">
+                                <h3>Elsa Corea Largaespada</h3>
+<h4>Administrative Assistant</h4>
+                            </header>
+                            <p>Bio coming soon...</a></p>
+   <i><p>Biografía próximamente...</a></p></i>
+   
+                            <ul className="actions">
+                                <li><a href="mailto:elsablakeimmigration.com" className="button fit">elas@blakeimmigration.com</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </section>
    
        </section>
 
