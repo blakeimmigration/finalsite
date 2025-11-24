@@ -19,7 +19,18 @@ const Victories = (props) => (
    
                     
     <h4><p>We have represented clients from all over the world including El Salvador, Honduras, Guatemala, Mexico, Costa Rica, Nicaragua, Venezuela, Colombia, Cuba, Jamaica, Haiti, Peru, Philippines, Pakistan, Azerbaijan, Afghanistan, Turkey, Bulgaria, Russia, Ukraine, Turkmenistan, Iran, Ethiopia, Cameroon, Sierra Leone, Mongolia, Vietnam, South Korea, China and Ghana. Below is a sample of some of our victories: </p></h4>
-         <h3>2023</h3>
+          <h3>2024</h3>
+    <ul>
+     <li><b>Asylum granted</b> at the Arlington Asylum Office for Azerbaijani client who feared political persecution. 
+    </li>
+    <li><b>Cancellation of Removal approved</b> in Sterling Immigration Court for Honduran client whose removal would lead to exceptional and extremely unusual hardship to his U.S. citizen children. 
+    </li>
+   <li><b>Asylum granted</b> in Annandale Immigration Court for Nicaraguan client who feared persecution due to her political activism. 
+    </li>
+    
+    </ul>  
+    
+    <h3>2023</h3>
     <ul>
      <li><b>Cancellation of Removal approved</b> in Annandale Immigration Court for Honduran client whose removal would lead to exceptional and extremely unusual hardship to his four U.S. citizen children. 
     </li>
