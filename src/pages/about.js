@@ -18,6 +18,7 @@ import pic44 from '../assets/images/pic44.jpg'
 import pic45 from '../assets/images/pic45.jpg'
 import pic54 from '../assets/images/pic54.jpg'
 import pic55 from '../assets/images/pic55.jpg'
+import pic73 from '../assets/images/pic73.jpg'
 
 
 const About = (props) => (
@@ -227,7 +228,7 @@ const About = (props) => (
                 </section>
       <section>
                     <Link to="/elsa" className="image">
-                    
+                     <img src={pic73} alt="" />
                     </Link>
                     <div className="content">
                         <div className="inner">
