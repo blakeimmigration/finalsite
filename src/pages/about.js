@@ -226,18 +226,19 @@ const About = (props) => (
                         </div>
                     </div>
                 </section>
+  
       <section>
                     <Link to="/elsa" className="image">
-                     <img src={pic73} alt="" />
+                        <img src={pic73} alt="" />
                     </Link>
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Elsa Corea Largaespada</h3>
+                                <h3>Elsa Corea</h3>
 <h4>Administrative Assistant</h4>
                             </header>
-                            <p>Bio coming soon...</a></p>
-   <i><p>Biografía próximamente...</a></p></i>
+                            <p>Bio coming soon...<a href="https://blakeimmigration.netlify.app/elsa/">Read more about Elsa...</a></p>
+   <i><p>Bio coming soon...<a href="https://blakeimmigration.netlify.app/elsa/">Leer más sobre Elsa...</a></p></i>
    
                             <ul className="actions">
                                 <li><a href="mailto:elsa@blakeimmigration.com" className="button fit">elsa@blakeimmigration.com</a></li>
@@ -245,7 +246,7 @@ const About = (props) => (
                         </div>
                     </div>
                 </section>
-   
+  
        </section>
 
  
