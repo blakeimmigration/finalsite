@@ -234,7 +234,7 @@ const About = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Elsa Corea</h3>
+                                <h3>Elsa Corea Largaespada</h3>
 <h4>Administrative Assistant</h4>
                             </header>
                             <p>Bio coming soon...<a href="https://blakeimmigration.netlify.app/elsa/">Read more about Elsa...</a></p>
