@@ -2,7 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 
-import pic74 from '../assets/images/pic74.jpg'
+import pic74 from '../assets/images/pic74.JPG'
 
 const Elsa= (props) => (
     <Layout>
