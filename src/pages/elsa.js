@@ -2,7 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 
-import pic74 from '../assets/images/pic74.JPG'
+import pic75 from '../assets/images/pic75.jpg'
 
 const Elsa= (props) => (
     <Layout>
@@ -18,7 +18,7 @@ const Elsa= (props) => (
                         <h1>Elsa Corea Largaespada</h1>
     <h3>Administrative Assistant</h3>
                     </header>
-                    <img src={pic74} alt="" />
+                    <img src={pic75} alt="" />
                     <p> Bio coming soon... </p>
   
                 </div>
